@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\calculadoracientifica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\dl081\\source\\repos\\calculadoracientificav1\\calculadoracientifica\\formactualizacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\formactualizacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\calculadoracientifica\\formactualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\formactualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\calculadoracientifica\\formactualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\formactualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|c:\\users\\dl081\\source\\repos\\calculadoracientificav1\\calculadoracientifica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6EE0C83-0692-4BC5-B887-5B4EE223DF62}|CalculadoraCientifica\\CalculadoraCientifica.csproj|solutionrelative:calculadoracientifica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormActualizacion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\FormActualizacion.Designer.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\FormActualizacion.Designer.cs",
+              "ToolTip": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\FormActualizacion.Designer.cs",
+              "RelativeToolTip": "CalculadoraCientifica\\FormActualizacion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:23:26.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\Form1.cs",
+              "ToolTip": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\Form1.cs",
+              "RelativeToolTip": "CalculadoraCientifica\\Form1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:18:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\Form1.cs",
+              "ToolTip": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraCientifica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:19:25.152Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormActualizacion.cs",
+              "DocumentMoniker": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\FormActualizacion.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\FormActualizacion.cs",
+              "ToolTip": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\FormActualizacion.cs",
+              "RelativeToolTip": "CalculadoraCientifica\\FormActualizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:28:34.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormActualizacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\FormActualizacion.cs",
+              "RelativeDocumentMoniker": "CalculadoraCientifica\\FormActualizacion.cs",
+              "ToolTip": "C:\\Users\\dl081\\source\\repos\\CalculadoraCientificaV1\\CalculadoraCientifica\\FormActualizacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CalculadoraCientifica\\FormActualizacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:15:47.589Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
